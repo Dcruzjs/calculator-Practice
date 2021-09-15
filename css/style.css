@@ -63,12 +63,3 @@ button:hover {
   border-radius: 12rem;
   background-color: var(--equals-bg-color);
 }
-
-@media screen and (max-width: 420px) {
-  #calculator {
-    width: 100%;
-  }
-  .container {
-    width: 100%;
-  }
-}
